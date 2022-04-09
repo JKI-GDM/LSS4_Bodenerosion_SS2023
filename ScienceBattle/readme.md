@@ -5,5 +5,3 @@ Panagos, P., Borrelli, P., Poesen, J., Meusburger, K., Ballabio, C., Lugato, E.,
 
 Evans, R., Boardman, J., 2016. The new assessment of soil loss by water erosion in Europe. Panagos P. et al., 2015 Environmental Science & Policy 54, 438–447—A response. Environmental Science & Policy 58, 11–15. https://doi.org/10.1016/j.envsci.2015.12.013
 Panagos, P., Borrelli, P., Poesen, J., Meusburger, K., Ballabio, C., Lugato, E., Montanarella, L., Alewell, C., 2016b. Reply to “The new assessment of soil loss by water erosion in Europe. Panagos P. et al., 2015 Environ. Sci. Policy 54, 438–447—A response” by Evans and Boardman [Environ. Sci. Policy 58, 11–15]. Environmental Science & Policy 59, 53–57. https://doi.org/10.1016/j.envsci.2016.02.010
-
-
