@@ -7,7 +7,7 @@
 Stuttgart](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/Schwertmann-etal1987abag.pdf)
 * [Alewell, C., Borrelli, P., Meusburger, K., Panagos, P., 2019. Using the USLE: Chances, challenges and limitations of soil erosion modelling,
 International Soil and Water Conservation Research 7, 203-225](https://doi.org/10.1016/j.iswcr.2019.05.004)
-* [DIN 19708, 2017. Bodenbeschaffenheit -- Ermittlung der Erosionsgefährdung von Böden durch Wasser mit Hilfe der ABAG](https://dx.doi.org/10.31030/2676773)
+* [DIN 19708, 2017. Bodenbeschaffenheit - Ermittlung der Erosionsgefährdung von Böden durch Wasser mit Hilfe der ABAG](https://dx.doi.org/10.31030/2676773)
 
 
 
