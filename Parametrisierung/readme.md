@@ -1,5 +1,5 @@
 # Literatur
-##
+## USLE/RUSLE/ABAG
 * Wischmeier, W.H.; Smith, D.D., 1960. A universal soil-loss equation to guide conservation farm planning. Int.
 Congr. Soil Sci. Trans. 1960, 7, 418–425
 * [Wischmeier, W.H., Smith, D.D., 1978. Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. Agriculture Handbook No. 537. USDA/Science and Education Administration, US. Govt. Printing Office, Washington, DC](https://doi.org/10.1029/TR039i002p00285)
