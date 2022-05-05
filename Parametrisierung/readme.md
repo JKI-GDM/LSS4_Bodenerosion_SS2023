@@ -5,6 +5,8 @@
 * [Benavidez, R., Jackson, B., Maxwell, D., Norton, K., 2018. A review of the (Revised) Universal Soil Loss Equation ((R)USLE): with a view to increasing its global applicability and improving soil loss estimates. Hydrol. Earth Syst. Sci. 22, 6059–6086](https://doi.org/10.5194/hess-22-6059-2018)
 * [Schwertmann, U., Vogl, W., Kainz, M., 1990. Bodenerosion durch Wasser: Vorhersage des Abtrags und Bewertung von Gegenmaßnahmen, 2. Auflage. Ulmer:
 Stuttgart](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/Schwertmann-etal1987abag.pdf)
+* [Alewell, C., Borrelli, P., Meusburger, K., Panagos, P., 2019. Using the USLE: Chances, challenges and limitations of soil erosion modelling,
+International Soil and Water Conservation Research 7, 203-225](https://doi.org/10.1016/j.iswcr.2019.05.004)
 
 
 
