@@ -5,6 +5,8 @@ Congr. Soil Sci. Trans. 1960, 7, 418–425
 * [Wischmeier, W.H., Smith, D.D., 1978. Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. Agriculture Handbook No. 537. USDA/Science and Education Administration, US. Govt. Printing Office, Washington, DC](https://doi.org/10.1029/TR039i002p00285)
 * [Renard, K., Foster, G., Weesies, G., McCool, D., and Yoder, D., 1997. Predicting soil erosion by water: a guide to conservation planning with the Revised Universal Soil Loss Equation (RUSLE), Agricultural Handbook No. 703, 65–100](https://doi.org/10.1201/9780203739358-5) 
 * [Benavidez, R., Jackson, B., Maxwell, D., Norton, K., 2018. A review of the (Revised) Universal Soil Loss Equation ((R)USLE): with a view to increasing its global applicability and improving soil loss estimates. Hydrol. Earth Syst. Sci. 22, 6059–6086](https://doi.org/10.5194/hess-22-6059-2018)
+* [Schwertmann, U., Vogl, W., Kainz, M., 1990. Bodenerosion durch Wasser: Vorhersage des Abtrags und Bewertung von Gegenmaßnahmen, 2. Auflage. Ulmer:
+Stuttgart]()
 
 
 
