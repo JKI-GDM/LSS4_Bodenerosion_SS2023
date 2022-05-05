@@ -1,4 +1,13 @@
 # Literatur
+##
+* Wischmeier, W.H.; Smith, D.D., 1960. A universal soil-loss equation to guide conservation farm planning. Int.
+Congr. Soil Sci. Trans. 1960, 7, 418–425
+* [Wischmeier, W.H., Smith, D.D., 1978. Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. Agriculture Handbook No. 537. USDA/Science and Education Administration, US. Govt. Printing Office, Washington, DC](https://doi.org/10.1029/TR039i002p00285)
+* [Renard, K., Foster, G., Weesies, G., McCool, D., and Yoder, D., 1997. Predicting soil erosion by water: a guide to conservation planning with the Revised Universal Soil Loss Equation (RUSLE), Agricultural Handbook No. 703, 65–100](https://doi.org/10.1201/9780203739358-5) 
+* [Benavidez, R., Jackson, B., Maxwell, D., Norton, K., 2018. A review of the (Revised) Universal Soil Loss Equation ((R)USLE): with a view to increasing its global applicability and improving soil loss estimates. Hydrol. Earth Syst. Sci. 22, 6059–6086](https://doi.org/10.5194/hess-22-6059-2018)
+
+
+
 ## Sachsen-Anhalt/Deutschland
 * [Helbig, H.,  Möller, M., Schmidt, G., 2010: Bodenerosion durch Wasser in Sachsen-Anhalt. BVB-Materialien, Bd. 15., Bundesverband Boden, Berlin: Erich Schmidt Verlag, ISBN 978-3-503-12498-5](https://www.bvb-materialien.de/aktuellerband.html)
 * [Wurbs, D., Steininger, M., 2011. Wirkungen der Klimaänderungen auf die Böden. UBA-Texte 16/2011, Dessau-Roßlau: Umweltbundesamt](https://nbn-resolving.org/urn:nbn:de:kobv:109-opus-108951/fragment/page=1)
