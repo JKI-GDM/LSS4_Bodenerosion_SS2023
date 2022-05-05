@@ -18,10 +18,12 @@ Bundesanstalt für; Geowissenschaften und Rohstoffe und Staatliche; Geologische 
 * [Fiener, P., Dostál, T., Krása, J., Schmaltz, E., Strauss, P., Wilken, F., 2020. Operational USLE-Based Modelling of Soil Erosion in Czech Republic, Austria, and Bavaria—Differences in Model Adaptation, Parametrization, and Data Availability. Applied Sciences 10, 3647](https://doi.org/10.3390/app10103647)
 
 ## K-Faktor
+* [Auerswald, K.; Fiener, P.; Martin, W.; Elhaus, D., 2014. Use and misuse of the K factor equation in soil erosion modeling. Catena 118, 220-225](https://doi.org/10.1016/j.catena.2014.01.008)
 * [Gebauer, A., Sakhaee, A., Don, A., Poggio, M., Ließ, M., 2022: Topsoil Texture Regionalization for Agricultural Soils in Germany—An Iterative Approach to Advance Model Interpretation. Frontiers in Soil Science 1](https://doi.org/10.3389/fsoil.2021.770326)
 * [Jacobs, A., Flessa, H., Don, A., Heidkamp, A., Prietz, R., Dechow, R., Gensior,
 A., Poeplau, C., Riggers, C., Schneider, F., Tiemeyer, B., Vos, C., Wittnebel, M., Müller, T., Säurich, A., Fahrion-Nitschke, A., Gebbert, S., Jaconi, A., Kolata, H.,
 Laggner, A., 2018. Landwirtschaftlich genutzte Böden in Deutschland - Ergebnisse der Bodenzustandserhebung. Braunschweig: Johann Heinrich von Thünen-Institut, Thünen Rep 64](https://www.thuenen.de/media/institute/ak/Allgemein/news/Thuenen_Report_64_final.pdf)
+
 
 
 ## LS-Faktor
