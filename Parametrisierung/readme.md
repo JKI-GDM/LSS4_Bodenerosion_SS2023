@@ -22,7 +22,7 @@ Bundesanstalt für; Geowissenschaften und Rohstoffe und Staatliche; Geologische 
 
 ## R-Faktor
 * [Auerswald, K., Fischer, F.K., Winterrath, T., Brandhuber, R., 2019. Rain erosivity map for Germany derived from contiguous radar rain data. Hydrol. Earth Syst. Sci. 23, 1819–1832](https://doi.org/10.5194/hess-23-1819-2019)
-* [Fischer, F., Hauck, J., Brandhuber, R., Weigl, E., Maier, H., Auerswald, K., 2016. Spatio-temporal variability of erosivity estimated from highly resolved and adjusted radar rain data (RADOLAN). Agricultural and Forest Meteorology 223, 72–80]{https://doi.org/10.1016/j.agrformet.2016.03.024}
+* [Fischer, F., Hauck, J., Brandhuber, R., Weigl, E., Maier, H., Auerswald, K., 2016. Spatio-temporal variability of erosivity estimated from highly resolved and adjusted radar rain data (RADOLAN). Agricultural and Forest Meteorology 223, 72–80](https://doi.org/10.1016/j.agrformet.2016.03.024)
 
 
 ## K-Faktor
