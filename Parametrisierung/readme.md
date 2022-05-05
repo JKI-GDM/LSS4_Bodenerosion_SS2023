@@ -7,6 +7,7 @@
 * [Jacobs, A., Flessa, H., Don, A., Heidkamp, A., Prietz, R., Dechow, R., Gensior,
 A., Poeplau, C., Riggers, C., Schneider, F., Tiemeyer, B., Vos, C., Wittnebel, M., Müller, T., Säurich, A., Fahrion-Nitschke, A., Gebbert, S., Jaconi, A., Kolata, H.,
 Laggner, A., 2018. Landwirtschaftlich genutzte Böden in Deutschland - Ergebnisse der Bodenzustandserhebung. Braunschweig: Johann Heinrich von Thünen-Institut, Thünen Rep 64](https://www.thuenen.de/media/institute/ak/Allgemein/news/Thuenen_Report_64_final.pdf)
-* Moore I.D., Burch G.J., 1986. Physical basis of the lengthslope factor in the Universal Soil Loss Equation. Soil Science Society of America Journal, 50: 1294–1298.
-* Moore I.D., Wilson J.P. (1992): Length-slope factors for the Revised Universal Soil Loss Equation: Simplified method of estimation. Journal of Soil and Water Conservation, 47: 423–428
+* [Moore I.D., Burch G.J., 1986. Physical basis of the lengthslope factor in the Universal Soil Loss Equation. Soil Science Society of America Journal, 50: 1294–1298]()
+* [Moore I.D., Wilson J.P., 1992. Length-slope factors for the Revised Universal Soil Loss Equation: Simplified method of estimation. Journal of Soil and Water Conservation, 47: 423–428]()
+* [Desmet, P. J. J., Govers, G., 1996. A GIS procedure for automatically calculating the USLE LS factor on topographically complex landscape units, J. Soil Water Conserv., 51, 427–433]()
 
