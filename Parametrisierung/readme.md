@@ -3,7 +3,9 @@
 * [Helbig, H.,  Möller, M., Schmidt, G., 2010: Bodenerosion durch Wasser in Sachsen-Anhalt. BVB-Materialien, Bd. 15., Bundesverband Boden, Berlin: Erich Schmidt Verlag, ISBN 978-3-503-12498-5](https://www.bvb-materialien.de/aktuellerband.html)
 * [Wurbs, D., Steininger, M., 2011. Wirkungen der Klimaänderungen auf die Böden. UBA-Texte 16/2011, Dessau-Roßlau: Umweltbundesamt](https://nbn-resolving.org/urn:nbn:de:kobv:109-opus-108951/fragment/page=1)
 * [Plambeck, N.O., 2020. Reassessment of the potential risk of soil erosion by water on agricultural land in Germany: Setting the stage for site-appropriate decision-making in soil and water resources management, Ecological Indicators 118, 106732](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/Plambeck2020ei.pdf)
-* 
+* [Hennings, V., 2000. Methodendokumentation Bodenkunde - Auswertungsmethoden zur Beurteilung der Empfindlichkeit und Belastbarkeit von Böden
+Bundesanstalt für; Geowissenschaften und Rohstoffe und Staatliche; Geologische Dienste in der Bundesrepublik Deutschland, AD-HOC-AG Boden, Sonderhefte Reihe G - Geol. Jahrbuch Heft 1](https://www.methodenwiki-bodenkunde.de/MethodenWiki/Hauptseite)
+
 ## K-Faktor
 * [Gebauer, A., Sakhaee, A., Don, A., Poggio, M., Ließ, M., 2022: Topsoil Texture Regionalization for Agricultural Soils in Germany—An Iterative Approach to Advance Model Interpretation. Frontiers in Soil Science 1](https://doi.org/10.3389/fsoil.2021.770326)
 * [Jacobs, A., Flessa, H., Don, A., Heidkamp, A., Prietz, R., Dechow, R., Gensior,
