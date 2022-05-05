@@ -5,6 +5,7 @@
 * [Plambeck, N.O., 2020. Reassessment of the potential risk of soil erosion by water on agricultural land in Germany: Setting the stage for site-appropriate decision-making in soil and water resources management, Ecological Indicators 118, 106732](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/Plambeck2020ei.pdf)
 * [Hennings, V., 2000. Methodendokumentation Bodenkunde - Auswertungsmethoden zur Beurteilung der Empfindlichkeit und Belastbarkeit von Böden
 Bundesanstalt für; Geowissenschaften und Rohstoffe und Staatliche; Geologische Dienste in der Bundesrepublik Deutschland, AD-HOC-AG Boden, Sonderhefte Reihe G - Geol. Jahrbuch Heft 1](https://www.methodenwiki-bodenkunde.de/MethodenWiki/Hauptseite)
+* [Volk, M., Möller, M., Wurbs, D., 2010. A pragmatic approach for soil erosion risk assessment within policy hierarchies. Land Use Policy 27, 997–1009](https://github.com/FLFgit/LV_Bodenerosion/blob/main/ABAG-Kalkulator/Volk-etal2010lup.pdf)
 
 ## K-Faktor
 * [Gebauer, A., Sakhaee, A., Don, A., Poggio, M., Ließ, M., 2022: Topsoil Texture Regionalization for Agricultural Soils in Germany—An Iterative Approach to Advance Model Interpretation. Frontiers in Soil Science 1](https://doi.org/10.3389/fsoil.2021.770326)
