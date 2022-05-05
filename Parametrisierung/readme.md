@@ -20,6 +20,11 @@ Bundesanstalt für; Geowissenschaften und Rohstoffe und Staatliche; Geologische 
 * [Volk, M., Möller, M., Wurbs, D., 2010. A pragmatic approach for soil erosion risk assessment within policy hierarchies. Land Use Policy 27, 997–1009](https://github.com/FLFgit/LV_Bodenerosion/blob/main/ABAG-Kalkulator/Volk-etal2010lup.pdf)
 * [Fiener, P., Dostál, T., Krása, J., Schmaltz, E., Strauss, P., Wilken, F., 2020. Operational USLE-Based Modelling of Soil Erosion in Czech Republic, Austria, and Bavaria—Differences in Model Adaptation, Parametrization, and Data Availability. Applied Sciences 10, 3647](https://doi.org/10.3390/app10103647)
 
+## R-Faktor
+* [Auerswald, K., Fischer, F.K., Winterrath, T., Brandhuber, R., 2019. Rain erosivity map for Germany derived from contiguous radar rain data. Hydrol. Earth Syst. Sci. 23, 1819–1832](https://doi.org/10.5194/hess-23-1819-2019)
+* [Fischer, F., Hauck, J., Brandhuber, R., Weigl, E., Maier, H., Auerswald, K., 2016. Spatio-temporal variability of erosivity estimated from highly resolved and adjusted radar rain data (RADOLAN). Agricultural and Forest Meteorology 223, 72–80]{https://doi.org/10.1016/j.agrformet.2016.03.024}
+
+
 ## K-Faktor
 * [Auerswald, K.; Fiener, P.; Martin, W.; Elhaus, D., 2014. Use and misuse of the K factor equation in soil erosion modeling. Catena 118, 220-225](https://doi.org/10.1016/j.catena.2014.01.008)
 * [Gebauer, A., Sakhaee, A., Don, A., Poggio, M., Ließ, M., 2022: Topsoil Texture Regionalization for Agricultural Soils in Germany—An Iterative Approach to Advance Model Interpretation. Frontiers in Soil Science 1](https://doi.org/10.3389/fsoil.2021.770326)
