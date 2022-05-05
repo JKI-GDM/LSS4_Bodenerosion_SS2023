@@ -6,6 +6,7 @@
 * [Hennings, V., 2000. Methodendokumentation Bodenkunde - Auswertungsmethoden zur Beurteilung der Empfindlichkeit und Belastbarkeit von Böden
 Bundesanstalt für; Geowissenschaften und Rohstoffe und Staatliche; Geologische Dienste in der Bundesrepublik Deutschland, AD-HOC-AG Boden, Sonderhefte Reihe G - Geol. Jahrbuch Heft 1](https://www.methodenwiki-bodenkunde.de/MethodenWiki/Hauptseite)
 * [Volk, M., Möller, M., Wurbs, D., 2010. A pragmatic approach for soil erosion risk assessment within policy hierarchies. Land Use Policy 27, 997–1009](https://github.com/FLFgit/LV_Bodenerosion/blob/main/ABAG-Kalkulator/Volk-etal2010lup.pdf)
+* [Fiener, P., Dostál, T., Krása, J., Schmaltz, E., Strauss, P., Wilken, F., 2020. Operational USLE-Based Modelling of Soil Erosion in Czech Republic, Austria, and Bavaria—Differences in Model Adaptation, Parametrization, and Data Availability. Applied Sciences 10, 3647](https://doi.org/10.3390/app10103647)
 
 ## K-Faktor
 * [Gebauer, A., Sakhaee, A., Don, A., Poggio, M., Ließ, M., 2022: Topsoil Texture Regionalization for Agricultural Soils in Germany—An Iterative Approach to Advance Model Interpretation. Frontiers in Soil Science 1](https://doi.org/10.3389/fsoil.2021.770326)
