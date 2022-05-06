@@ -32,6 +32,7 @@ Bundesanstalt für; Geowissenschaften und Rohstoffe und Staatliche; Geologische 
 * [Jacobs, A., Flessa, H., Don, A., Heidkamp, A., Prietz, R., Dechow, R., Gensior,
 A., Poeplau, C., Riggers, C., Schneider, F., Tiemeyer, B., Vos, C., Wittnebel, M., Müller, T., Säurich, A., Fahrion-Nitschke, A., Gebbert, S., Jaconi, A., Kolata, H.,
 Laggner, A., 2018. Landwirtschaftlich genutzte Böden in Deutschland - Ergebnisse der Bodenzustandserhebung. Braunschweig: Johann Heinrich von Thünen-Institut, Thünen Rep 64](https://www.thuenen.de/media/institute/ak/Allgemein/news/Thuenen_Report_64_final.pdf)
+* [Gebauer, A., Sakhaee, A., Don, A., Poggio, M., Ließ, M., 2022. Topsoil Texture Regionalization for Agricultural Soils in Germany—An Iterative Approach to Advance Model Interpretation. Front. Soil Sci. 1, 770326](https://doi.org/10.3389/fsoil.2021.770326)
 
 
 
