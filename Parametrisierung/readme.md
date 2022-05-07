@@ -40,8 +40,8 @@ Laggner, A., 2018. Landwirtschaftlich genutzte Böden in Deutschland - Ergebniss
 * [Moore I.D., Burch G.J., 1986. Physical basis of the lengthslope factor in the Universal Soil Loss Equation. Soil Science Society of America Journal, 50: 1294–1298](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/MooreBurch1986sssaj.pdf)
 * [Moore I.D., Wilson J.P., 1992. Length-slope factors for the Revised Universal Soil Loss Equation: Simplified method of estimation. Journal of Soil and Water Conservation, 47: 423–428](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/MooreWilson1992jswc.pdf)
 * [Desmet, P. J. J., Govers, G., 1996. A GIS procedure for automatically calculating the USLE LS factor on topographically complex landscape units, J. Soil Water Conserv., 51, 427–433](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/DesmetGovers1996jswc.pdf)
-* [Hrabalíková, M., Janeček, M., 2017. Comparison of different approaches to LS factor calculations based on a measured soil loss under simulated rainfall. Soil & Water Res. 12, 69–77]()
-* [Khanifar, J., Khademalrasoul, A., 2020. Multiscale comparison of LS factor calculation methods based on different flow direction algorithms in Susa Ancient landscape. Acta Geophys. 68, 783–793]()
+* [Hrabalíková, M., Janeček, M., 2017. Comparison of different approaches to LS factor calculations based on a measured soil loss under simulated rainfall. Soil & Water Res. 12, 69–77](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/HrabalikovaJanecek2017swr.pdf)
+* [Khanifar, J., Khademalrasoul, A., 2020. Multiscale comparison of LS factor calculation methods based on different flow direction algorithms in Susa Ancient landscape. Acta Geophys. 68, 783–793](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/KhanifarKhademalrasoul2020ag.pdf)
 
 
 
