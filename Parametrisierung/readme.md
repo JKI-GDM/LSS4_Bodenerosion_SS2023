@@ -59,5 +59,7 @@ Laggner, A., 2018. Landwirtschaftlich genutzte Böden in Deutschland - Ergebniss
 * [Tetteh, G.O., Gocht, A., Conrad, C., 2020. Optimal parameters for delineating agricultural parcels from satellite images based on supervised Bayesian optimization. Computers and Electronics in Agriculture 178, 105696](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/Tetteh-etal2020compag.pdf)
 * [Möller, M., Gerstmann, H., Gao, F., Dahms, T.C., Förster, M., 2017. Coupling of phenological information and simulated vegetation index time series: Limitations and potentials for the assessment and monitoring of soil erosion risk. CATENA 150, 192–205](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/Moeller-etal2017catena.pdf)
 * [Gerstmann, H., Doktor, D., Gläßer, C., Möller, M., 2016. PHASE: A geostatistical model for the Kriging-based spatial prediction of crop phenology using public phenological and climatological observations. Computers and Electronics in Agriculture 127, 726–738](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/Gerstmann-etal2016compag.pdf)
+* [Möller, M., Boutarfa, L., Strassemeyer, J., 2020. PhenoWin – An R Shiny application for visualization and extraction of phenological windows in Germany. Computers and Electronics in Agriculture 175, 105534](https://doi.org/10.1016/j.compag.2020.105534)
+
 
 
