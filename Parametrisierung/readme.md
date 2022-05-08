@@ -55,5 +55,6 @@ Laggner, A., 2018. Landwirtschaftlich genutzte Böden in Deutschland - Ergebniss
 * [Preidl, S., Lange, M., Doktor, D., 2020. Introducing APiC for regionalised land cover mapping on the national scale using Sentinel-2A imagery. Remote Sensing of Environment 240, 111673](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/Preidl-etal2020rse.pdf)
 * [Möller, M., Lymburner, L., Volk, M., 2007. The comparison index: A tool for assessing the accuracy of image segmentation. International Journal of Applied Earth Observation and Geoinformation 9, 311–321](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/Moeller-etal2007jag.pdf)
 * [Tetteh, G.O., Gocht, A., Conrad, C., 2020. Optimal parameters for delineating agricultural parcels from satellite images based on supervised Bayesian optimization. Computers and Electronics in Agriculture 178, 105696](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/Tetteh-etal2020compag.pdf)
+* [Möller, M., Gerstmann, H., Gao, F., Dahms, T.C., Förster, M., 2017. Coupling of phenological information and simulated vegetation index time series: Limitations and potentials for the assessment and monitoring of soil erosion risk. CATENA 150, 192–205](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/Moeller-etal2017catena.pdf)
 
 
