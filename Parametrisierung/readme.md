@@ -20,7 +20,6 @@ International Soil and Water Conservation Research 7, 203-225](https://doi.org/1
 * [Hennings, V., 2000. Methodendokumentation Bodenkunde - Auswertungsmethoden zur Beurteilung der Empfindlichkeit und Belastbarkeit von Böden
 Bundesanstalt für; Geowissenschaften und Rohstoffe und Staatliche; Geologische Dienste in der Bundesrepublik Deutschland, AD-HOC-AG Boden, Sonderhefte Reihe G - Geol. Jahrbuch Heft 1](https://www.methodenwiki-bodenkunde.de/MethodenWiki/Hauptseite)
 * [Volk, M., Möller, M., Wurbs, D., 2010. A pragmatic approach for soil erosion risk assessment within policy hierarchies. Land Use Policy 27, 997–1009](https://github.com/FLFgit/LV_Bodenerosion/blob/main/ABAG-Kalkulator/Volk-etal2010lup.pdf)
-* [Gerstmann, H., Doktor, D., Gläßer, C., Möller, M., 2016. PHASE: A geostatistical model for the Kriging-based spatial prediction of crop phenology using public phenological and climatological observations. Computers and Electronics in Agriculture 127, 726–738]()
 * [Fiener, P., Dostál, T., Krása, J., Schmaltz, E., Strauss, P., Wilken, F., 2020. Operational USLE-Based Modelling of Soil Erosion in Czech Republic, Austria, and Bavaria—Differences in Model Adaptation, Parametrization, and Data Availability. Applied Sciences 10, 3647](https://doi.org/10.3390/app10103647)
 
 ## R-Faktor
@@ -61,6 +60,7 @@ Laggner, A., 2018. Landwirtschaftlich genutzte Böden in Deutschland - Ergebniss
 * [Möller, M., Gerstmann, H., Gao, F., Dahms, T.C., Förster, M., 2017. Coupling of phenological information and simulated vegetation index time series: Limitations and potentials for the assessment and monitoring of soil erosion risk. CATENA 150, 192–205](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/Moeller-etal2017catena.pdf)
 * [Gerstmann, H., Doktor, D., Gläßer, C., Möller, M., 2016. PHASE: A geostatistical model for the Kriging-based spatial prediction of crop phenology using public phenological and climatological observations. Computers and Electronics in Agriculture 127, 726–738](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/Gerstmann-etal2016compag.pdf)
 * [Möller, M., Boutarfa, L., Strassemeyer, J., 2020. PhenoWin – An R Shiny application for visualization and extraction of phenological windows in Germany. Computers and Electronics in Agriculture 175, 105534](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/Moeller-etal2020compag.pdf)
+* [Gerstmann, H., Doktor, D., Gläßer, C., Möller, M., 2016. PHASE: A geostatistical model for the Kriging-based spatial prediction of crop phenology using public phenological and climatological observations. Computers and Electronics in Agriculture 127, 726–738](https://github.com/FLFgit/LV_Bodenerosion/blob/main/Parametrisierung/Gerstmann-etal2016compag.pdf)
 
 
 
