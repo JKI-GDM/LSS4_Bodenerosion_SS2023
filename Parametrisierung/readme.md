@@ -21,7 +21,6 @@ International Soil and Water Conservation Research 7, 203-225](https://doi.org/1
 Bundesanstalt für; Geowissenschaften und Rohstoffe und Staatliche; Geologische Dienste in der Bundesrepublik Deutschland, AD-HOC-AG Boden, Sonderhefte Reihe G - Geol. Jahrbuch Heft 1](https://www.methodenwiki-bodenkunde.de/MethodenWiki/Hauptseite)
 * [Volk, M., Möller, M., Wurbs, D., 2010. A pragmatic approach for soil erosion risk assessment within policy hierarchies. Land Use Policy 27, 997–1009](https://github.com/FLFgit/LV_Bodenerosion/blob/main/ABAG-Kalkulator/Volk-etal2010lup.pdf)
 * [Gerstmann, H., Doktor, D., Gläßer, C., Möller, M., 2016. PHASE: A geostatistical model for the Kriging-based spatial prediction of crop phenology using public phenological and climatological observations. Computers and Electronics in Agriculture 127, 726–738]()
-
 * [Fiener, P., Dostál, T., Krása, J., Schmaltz, E., Strauss, P., Wilken, F., 2020. Operational USLE-Based Modelling of Soil Erosion in Czech Republic, Austria, and Bavaria—Differences in Model Adaptation, Parametrization, and Data Availability. Applied Sciences 10, 3647](https://doi.org/10.3390/app10103647)
 
 ## R-Faktor
@@ -36,6 +35,8 @@ Bundesanstalt für; Geowissenschaften und Rohstoffe und Staatliche; Geologische 
 A., Poeplau, C., Riggers, C., Schneider, F., Tiemeyer, B., Vos, C., Wittnebel, M., Müller, T., Säurich, A., Fahrion-Nitschke, A., Gebbert, S., Jaconi, A., Kolata, H.,
 Laggner, A., 2018. Landwirtschaftlich genutzte Böden in Deutschland - Ergebnisse der Bodenzustandserhebung. Braunschweig: Johann Heinrich von Thünen-Institut, Thünen Rep 64](https://www.thuenen.de/media/institute/ak/Allgemein/news/Thuenen_Report_64_final.pdf)
 * [Gebauer, A., Sakhaee, A., Don, A., Poggio, M., Ließ, M., 2022. Topsoil Texture Regionalization for Agricultural Soils in Germany—An Iterative Approach to Advance Model Interpretation. Front. Soil Sci. 1, 770326](https://doi.org/10.3389/fsoil.2021.770326)
+* [Safanelli, J.L., Chabrillat, S., Ben-Dor, E., Demattê, J.A.M., 2020. Multispectral Models from Bare Soil Composites for Mapping Topsoil Properties over Europe. Remote Sensing 12, 1369](https://doi.org/10.3390/rs12091369)
+
 
 
 
